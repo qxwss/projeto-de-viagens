@@ -1,0 +1,52 @@
+p {font-family:"Helvetica", sans-serif;}
+
+p {
+    font-family:monospace;
+}
+p {
+      color:green;
+ }
+
+ h2 {
+    color:orange;
+}
+
+h2{
+    height:10px;
+}
+
+#inglaterra{
+    color:black;
+}
+
+#paris{
+    color:red;
+}
+
+#franca{
+    color:red;
+}
+
+#egito{
+    color:yellow;
+}
+
+#italia{
+    color:green;
+}
+
+#londres{
+    color:black;
+    font-family:"Helvetica",sans-serif;
+    font-family:"monospace";
+}
+
+#guize{
+    color:yellow;
+    font-family:"Helvetica",sans-serif;
+    font-family:"monospace";
+}
+
+#bali{
+    color:orange;
+}
